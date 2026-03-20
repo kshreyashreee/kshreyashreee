@@ -303,8 +303,3 @@ End-to-end C++ hardware validation application for USB FAX Card manufacturing.
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=100&section=footer" width="100%"/>
   <br/>
   <img src="https://komarev.com/ghpvc/?username=kshreyashreee&style=for-the-badge&color=blueviolet&label=PROFILE+VIEWS"/>
-  <br/><br/>
-  <i>❝ தாளாண்மை என்னும் தகைமைக்கண் தங்கிற்றே வேளாண்மை என்னும் செருக்கு ❞</i>
-  <br/>
-  <i>— திருக்குறள் ௬௬௭</i>
-</div>
